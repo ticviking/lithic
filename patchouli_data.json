@@ -1,0 +1,44 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "pyrotech:book": {
+      "viewedEntries": [
+        "pyrotech:gather/plant_fibers",
+        "pyrotech:survive/introduction",
+        "pyrotech:survive/campfire",
+        "pyrotech:appendix/ignition",
+        "pyrotech:innovate/bow_drill",
+        "pyrotech:survive/flint_and_tinder",
+        "pyrotech:gather/shard_bone_and_flint",
+        "pyrotech:adapt/plant_fibers_dried",
+        "pyrotech:survive/rocks",
+        "pyrotech:accelerate/igniters",
+        "pyrotech:innovate/stone_brick",
+        "pyrotech:adapt/anvil_granite",
+        "pyrotech:innovate/refractory_brick",
+        "pyrotech:bloom/anvil_ironclad",
+        "pyrotech:adapt/stone",
+        "pyrotech:gather/clay_lump_of",
+        "pyrotech:adapt/pit_kiln"
+      ],
+      "bookmarks": [],
+      "history": [
+        "pyrotech:adapt/pit_kiln",
+        "pyrotech:adapt/stone",
+        "pyrotech:gather/clay_lump_of",
+        "pyrotech:bloom/anvil_ironclad",
+        "pyrotech:innovate/refractory_brick",
+        "pyrotech:accelerate/igniters",
+        "pyrotech:innovate/stone_brick",
+        "pyrotech:adapt/anvil_granite",
+        "pyrotech:appendix/ignition",
+        "pyrotech:survive/flint_and_tinder",
+        "pyrotech:survive/rocks",
+        "pyrotech:adapt/plant_fibers_dried",
+        "pyrotech:gather/shard_bone_and_flint"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

@@ -1,0 +1,11 @@
+saves/
+journeymap/
+logs/
+mods/
+patchouli_books/
+
+*.log
+usercache.json
+usernamecache.json
+.curseclient
+BotaniaVars.dat
