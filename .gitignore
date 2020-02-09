@@ -9,3 +9,5 @@ usercache.json
 usernamecache.json
 .curseclient
 BotaniaVars.dat
+config/jei/worldSettings.cfg
+config/splash.properties
