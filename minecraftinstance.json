@@ -422,6 +422,157 @@
       "installedTargets": []
     },
     {
+      "addonID": 256422,
+      "gameInstanceID": "dec040a2-5bb3-4b1e-9ede-4c94d793e22e",
+      "installedFile": {
+        "id": 2691611,
+        "displayName": "Maille1.12.2-2.1.jar",
+        "fileName": "Maille1.12.2-2.1.jar",
+        "fileDate": "2019-03-25T15:29:11.62Z",
+        "fileLength": 12627,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2691/611/Maille1.12.2-2.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2840546128,
+            "type": 0
+          },
+          {
+            "foldername": "panda",
+            "fingerprint": 3032480445,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2166066323,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1178450680,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2842167049,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2720583808,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Maille1.12.2-2.1.jar"
+      },
+      "dateInstalled": "2020-02-09T18:34:37.3267974Z",
+      "dateUpdated": "2020-02-09T18:34:37.3867421Z",
+      "dateLastUpdateAttempted": "2020-02-09T18:34:37.3867421Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 248787,
+      "gameInstanceID": "dec040a2-5bb3-4b1e-9ede-4c94d793e22e",
+      "installedFile": {
+        "id": 2496585,
+        "displayName": "AppleSkin-mc1.12-1.0.9.jar",
+        "fileName": "AppleSkin-mc1.12-1.0.9.jar",
+        "fileDate": "2017-11-03T00:07:53.083Z",
+        "fileLength": 32317,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2496/585/AppleSkin-mc1.12-1.0.9.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0
+          },
+          {
+            "foldername": "betterwithmods",
+            "fingerprint": 1637584094,
+            "type": 0
+          },
+          {
+            "foldername": "squeek",
+            "fingerprint": 1048292493,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3447702788,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4000864019,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2520837536,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1708065614,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-06-07T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "AppleSkin-mc1.12-1.0.9.jar"
+      },
+      "dateInstalled": "2020-02-09T18:22:48.5577918Z",
+      "dateUpdated": "2020-02-09T18:22:48.7227913Z",
+      "dateLastUpdateAttempted": "2020-02-09T18:22:48.7227913Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 306676,
       "gameInstanceID": "dec040a2-5bb3-4b1e-9ede-4c94d793e22e",
       "installedFile": {
@@ -829,6 +980,79 @@
       "installedTargets": []
     },
     {
+      "addonID": 269714,
+      "gameInstanceID": "dec040a2-5bb3-4b1e-9ede-4c94d793e22e",
+      "installedFile": {
+        "id": 2695934,
+        "displayName": "LeatherWorks-1.12-1.78.0.42.jar",
+        "fileName": "LeatherWorks-1.12-1.78.0.42.jar",
+        "fileDate": "2019-04-06T01:43:02.82Z",
+        "fileLength": 423005,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2695/934/LeatherWorks-1.12-1.78.0.42.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 409530260,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1507219495,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 522810519,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 708723615,
+            "type": 0
+          },
+          {
+            "foldername": "panda",
+            "fingerprint": 3879184452,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3853061325,
+        "gameVersion": [
+          "1.12",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "LeatherWorks-1.12-1.78.0.42.jar"
+      },
+      "dateInstalled": "2020-02-09T18:33:17.4469444Z",
+      "dateUpdated": "2020-02-09T18:33:17.450943Z",
+      "dateLastUpdateAttempted": "2020-02-09T18:33:17.450943Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 298323,
       "gameInstanceID": "dec040a2-5bb3-4b1e-9ede-4c94d793e22e",
       "installedFile": {
@@ -1145,6 +1369,93 @@
       "dateInstalled": "2020-02-09T06:00:06.9524044Z",
       "dateUpdated": "2020-02-09T06:00:06.9594022Z",
       "dateLastUpdateAttempted": "2020-02-09T06:00:06.9594022Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 223094,
+      "gameInstanceID": "dec040a2-5bb3-4b1e-9ede-4c94d793e22e",
+      "installedFile": {
+        "id": 2482481,
+        "displayName": "Inventory Tweaks 1.63",
+        "fileName": "InventoryTweaks-1.63.jar",
+        "fileDate": "2017-09-21T13:56:21.667Z",
+        "fileLength": 263258,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2482/481/InventoryTweaks-1.63.jar",
+        "isAlternate": false,
+        "alternateFileId": 2482482,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2582511254,
+            "type": 0
+          },
+          {
+            "foldername": "invtweaks",
+            "fingerprint": 1860114678,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2394590757,
+            "type": 0
+          },
+          {
+            "foldername": "invtweaks.png",
+            "fingerprint": 1558494413,
+            "type": 0
+          },
+          {
+            "foldername": "invtweaks_at.cfg",
+            "fingerprint": 180667226,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2739388718,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 934435428,
+            "type": 0
+          },
+          {
+            "foldername": "version.properties",
+            "fingerprint": 921205253,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 4009982705,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "InventoryTweaks-1.63.jar"
+      },
+      "dateInstalled": "2020-02-09T17:54:52.4380746Z",
+      "dateUpdated": "2020-02-09T17:54:52.442075Z",
+      "dateLastUpdateAttempted": "2020-02-09T17:54:52.442075Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
