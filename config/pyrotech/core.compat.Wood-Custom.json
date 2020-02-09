@@ -27,6 +27,12 @@
     "minecraftfuture:stripped_dark_oak_log:0": "minecraft:planks:5",
     "minecraftfuture:stripped_jungle_log:0": "minecraft:planks:3",
     "minecraftfuture:stripped_oak_log:0": "minecraft:planks:0",
-    "minecraftfuture:stripped_spruce_log:0": "minecraft:planks:1"
+    "minecraftfuture:stripped_spruce_log:0": "minecraft:planks:1",
+  "leatherworks:debarked_log_oak": "minecraft:planks:0",
+ "leatherworks:debarked_log_acacia": "minecraft:planks:4",
+ "leatherworks:debarked_log_birch": "minecraft:planks:2",
+ "leatherworks:debarked_log_spruce": "minecraft:planks:1",
+ "leatherworks:debarked_log_darkoak": "minecraft:planks:5",
+ "leatherworks:debarked_log_jungle": "minecraft:planks:3"
   }
 }
