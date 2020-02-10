@@ -11,3 +11,6 @@ usernamecache.json
 BotaniaVars.dat
 config/jei/worldSettings.cfg
 config/splash.properties
+config/pyrotech/core.compat.Wood-Generated.json
+config/pyrotech/core.compat.Ore-Generated.json
+config/pyrotech/core.OreDict-Generated.json
