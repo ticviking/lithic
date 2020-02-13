@@ -9,3 +9,14 @@ for item in unused_items {
 }
 // Use pyrotech drying technology
 CrudeDryingRack.addRecipe("hide_drying", <minecraft:leather>, <leatherworks:crafting_leather_soaked>,8*20*60, true);
+
+// remove plank recipies.
+recipes.removeShapeless(<minecraft:planks:3> * 4);
+recipes.removeShapeless(<minecraft:planks:5> * 4);
+recipes.removeShapeless(<minecraft:planks:1> * 4);
+recipes.removeShapeless(<minecraft:planks> * 4);
+recipes.removeShapeless(<minecraft:planks:4> * 4);
+recipes.removeShapeless(<minecraft:planks:2> * 4);
+recipes.removeShapeless(<minecraft:planks:2> * 4);
+recipes.removeShapeless(<minecraft:planks:4> * 4);
+recipes.removeShapeless(<minecraft:planks> * 4);

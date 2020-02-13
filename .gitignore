@@ -1,4 +1,6 @@
 saves/
+resourcepacks/
+shaders/
 journeymap/
 logs/
 mods/
@@ -14,3 +16,4 @@ config/splash.properties
 config/pyrotech/core.compat.Wood-Generated.json
 config/pyrotech/core.compat.Ore-Generated.json
 config/pyrotech/core.OreDict-Generated.json
+options.txt
