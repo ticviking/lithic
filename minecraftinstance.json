@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-02-13T14:19:49.0539277Z",
+  "lastPlayed": "2020-02-13T18:34:03.8067384Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -45,34 +45,19 @@
   "name": "Lithica",
   "cachedScans": [
     {
-      "folderName": "LeatherWorks-1.12-1.78.0.42.jar",
-      "fingerprint": 3853061325,
-      "fileDateHash": 606150050,
+      "folderName": "dropt-1.12.2-1.16.1.jar",
+      "fingerprint": 895793415,
+      "fileDateHash": 1080411147,
       "sectionID": 8,
       "individualFingerprints": [
-        3853061325
+        895793415
       ],
       "status": 1,
-      "timestamp": "2020-02-09T21:22:36.4185648Z",
-      "lastWriteTimeUtc": "2020-02-09T18:33:17.4369451Z",
+      "timestamp": "2020-02-09T05:52:06.3490823Z",
+      "lastWriteTimeUtc": "2020-02-09T05:11:52.2304305Z",
       "queryTimestamp": "2020-02-13T00:40:22.1928855Z",
       "fileCount": 1,
-      "fileSize": 423005
-    },
-    {
-      "folderName": "InventoryTweaks-1.63.jar",
-      "fingerprint": 4009982705,
-      "fileDateHash": 2265766655,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4009982705
-      ],
-      "status": 1,
-      "timestamp": "2020-02-09T21:22:36.4165658Z",
-      "lastWriteTimeUtc": "2020-02-09T17:54:52.4291475Z",
-      "queryTimestamp": "2020-02-13T00:40:22.1928855Z",
-      "fileCount": 1,
-      "fileSize": 263258
+      "fileSize": 140016
     },
     {
       "folderName": "jei_1.12.2-4.15.0.291.jar",
@@ -90,202 +75,19 @@
       "fileSize": 651473
     },
     {
-      "folderName": "Soartex_Fanver_Modded_Universal.zip",
-      "fingerprint": 1247408456,
-      "fileDateHash": 944931152,
-      "sectionID": 9,
-      "individualFingerprints": [
-        1247408456
-      ],
-      "status": 1,
-      "timestamp": "2020-02-13T01:28:46.2140322Z",
-      "lastWriteTimeUtc": "2020-02-13T00:44:28.9605811Z",
-      "queryTimestamp": "2020-02-13T01:28:48.0690368Z",
-      "fileCount": 1,
-      "fileSize": 145410508
-    },
-    {
-      "folderName": "dropt-1.12.2-1.16.1.jar",
-      "fingerprint": 895793415,
-      "fileDateHash": 1080411147,
+      "folderName": "AppleSkin-mc1.12-1.0.9.jar",
+      "fingerprint": 1708065614,
+      "fileDateHash": 1192434277,
       "sectionID": 8,
       "individualFingerprints": [
-        895793415
-      ],
-      "status": 1,
-      "timestamp": "2020-02-09T05:52:06.3490823Z",
-      "lastWriteTimeUtc": "2020-02-09T05:11:52.2304305Z",
-      "queryTimestamp": "2020-02-13T00:40:22.1928855Z",
-      "fileCount": 1,
-      "fileSize": 140016
-    },
-    {
-      "folderName": "Botania r1.10-363.jar",
-      "fingerprint": 3763127432,
-      "fileDateHash": 4176784915,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3763127432
-      ],
-      "status": 1,
-      "timestamp": "2020-02-09T05:52:06.2100845Z",
-      "lastWriteTimeUtc": "2020-02-09T05:12:27.0871298Z",
-      "queryTimestamp": "2020-02-13T00:40:22.1928855Z",
-      "fileCount": 1,
-      "fileSize": 13814617
-    },
-    {
-      "folderName": "Baubles-1.12-1.5.2.jar",
-      "fingerprint": 4247051032,
-      "fileDateHash": 1129001609,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4247051032
-      ],
-      "status": 1,
-      "timestamp": "2020-02-09T05:52:06.1640832Z",
-      "lastWriteTimeUtc": "2020-02-09T05:12:26.3851326Z",
-      "queryTimestamp": "2020-02-13T00:40:22.1938871Z",
-      "fileCount": 1,
-      "fileSize": 108450
-    },
-    {
-      "folderName": "BirdsNests1.12.2-2.1.0.jar",
-      "fingerprint": 2836775263,
-      "fileDateHash": 1253777134,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2836775263
+        1708065614
       ],
       "status": 1,
       "timestamp": "2020-02-09T21:22:36.3775653Z",
-      "lastWriteTimeUtc": "2020-02-09T18:34:44.6593505Z",
-      "queryTimestamp": "2020-02-13T00:40:22.1938871Z",
-      "fileCount": 1,
-      "fileSize": 14975
-    },
-    {
-      "folderName": "Pyrotech",
-      "fingerprint": 891672208,
-      "fileDateHash": 1075539707,
-      "sectionID": 10,
-      "individualFingerprints": [
-        111927845,
-        241361694,
-        344937251,
-        489458212,
-        489458212,
-        584403741,
-        758054953,
-        758054953,
-        758054953,
-        891419144,
-        966366087,
-        1879319662,
-        2243332060,
-        3997289789,
-        4122131704,
-        4204231364,
-        4213863462,
-        4213863462,
-        4213863462,
-        4213863462,
-        4249699319
-      ],
-      "status": 1,
-      "timestamp": "2020-02-13T01:28:47.5010339Z",
-      "lastWriteTimeUtc": "2020-02-13T01:28:35.2437931Z",
-      "queryTimestamp": "2020-02-13T01:28:48.0700334Z",
-      "fileCount": 12,
-      "fileSize": 0
-    },
-    {
-      "folderName": "pyrotech-1.12.2-1.4.20.jar",
-      "fingerprint": 466938443,
-      "fileDateHash": 3763277494,
-      "sectionID": 8,
-      "individualFingerprints": [
-        466938443
-      ],
-      "status": 1,
-      "timestamp": "2020-02-09T05:52:06.4260844Z",
-      "lastWriteTimeUtc": "2020-02-09T05:11:53.3354292Z",
-      "queryTimestamp": "2020-02-13T00:40:22.1938871Z",
-      "fileCount": 1,
-      "fileSize": 3642807
-    },
-    {
-      "folderName": "CraftTweaker2-1.12-4.1.20.jar",
-      "fingerprint": 4244191030,
-      "fileDateHash": 1574712497,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4244191030
-      ],
-      "status": 1,
-      "timestamp": "2020-02-09T05:52:06.336085Z",
-      "lastWriteTimeUtc": "2020-02-09T05:16:17.9426602Z",
-      "queryTimestamp": "2020-02-13T00:40:22.1938871Z",
-      "fileCount": 1,
-      "fileSize": 1363036
-    },
-    {
-      "folderName": "OptiFine_1.12.2_HD_U_F4.jar",
-      "fingerprint": 4270438953,
-      "fileDateHash": 1377400646,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4270438953
-      ],
-      "status": 1,
-      "timestamp": "2020-02-13T00:40:21.7968864Z",
-      "lastWriteTimeUtc": "2019-11-09T12:51:38.8468074Z",
-      "queryTimestamp": "2020-02-13T00:40:22.1938871Z",
-      "fileCount": 1,
-      "fileSize": 2598165
-    },
-    {
-      "folderName": "wumpleutil-1.12.2-2.12.9.jar",
-      "fingerprint": 1626037618,
-      "fileDateHash": 700222970,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1626037618
-      ],
-      "status": 1,
-      "timestamp": "2020-02-09T21:22:36.4215646Z",
-      "lastWriteTimeUtc": "2020-02-09T05:58:29.0447768Z",
-      "queryTimestamp": "2020-02-13T00:40:22.1938871Z",
-      "fileCount": 1,
-      "fileSize": 458547
-    },
-    {
-      "folderName": "athenaeum-1.12.2-1.17.4.jar",
-      "fingerprint": 762739562,
-      "fileDateHash": 3157022259,
-      "sectionID": 8,
-      "individualFingerprints": [
-        762739562
-      ],
-      "status": 1,
-      "timestamp": "2020-02-09T05:52:06.1620856Z",
-      "lastWriteTimeUtc": "2020-02-09T05:11:51.8834541Z",
+      "lastWriteTimeUtc": "2020-02-09T18:22:48.3957929Z",
       "queryTimestamp": "2020-02-13T00:40:22.194886Z",
       "fileCount": 1,
-      "fileSize": 232826
-    },
-    {
-      "folderName": "Testing",
-      "fingerprint": 0,
-      "fileDateHash": 744771464,
-      "sectionID": 10,
-      "individualFingerprints": null,
-      "status": 4,
-      "timestamp": "2020-02-13T01:28:47.572034Z",
-      "lastWriteTimeUtc": "2020-02-09T22:59:41.5496932Z",
-      "queryTimestamp": "0001-01-01T00:00:00",
-      "fileCount": 12,
-      "fileSize": 0
+      "fileSize": 32317
     },
     {
       "folderName": "Patchouli-1.0-20.jar",
@@ -303,34 +105,34 @@
       "fileSize": 466243
     },
     {
-      "folderName": "Faithful 1.12.2-rv4.zip",
-      "fingerprint": 2839546773,
-      "fileDateHash": 3859211694,
-      "sectionID": 9,
+      "folderName": "wumpleutil-1.12.2-2.12.9.jar",
+      "fingerprint": 1626037618,
+      "fileDateHash": 700222970,
+      "sectionID": 8,
       "individualFingerprints": [
-        2839546773
+        1626037618
       ],
       "status": 1,
-      "timestamp": "2020-02-13T01:28:45.8390333Z",
-      "lastWriteTimeUtc": "2020-02-13T00:43:39.2128075Z",
-      "queryTimestamp": "2020-02-13T01:28:48.0720328Z",
+      "timestamp": "2020-02-09T21:22:36.4215646Z",
+      "lastWriteTimeUtc": "2020-02-09T05:58:29.0447768Z",
+      "queryTimestamp": "2020-02-13T00:40:22.1938871Z",
       "fileCount": 1,
-      "fileSize": 6878379
+      "fileSize": 458547
     },
     {
-      "folderName": "Clarity 1.12.zip",
-      "fingerprint": 3801037052,
-      "fileDateHash": 3009044875,
-      "sectionID": 9,
+      "folderName": "OptiFine_1.12.2_HD_U_F4.jar",
+      "fingerprint": 4270438953,
+      "fileDateHash": 1377400646,
+      "sectionID": 8,
       "individualFingerprints": [
-        3801037052
+        4270438953
       ],
       "status": 1,
-      "timestamp": "2020-02-13T01:28:45.7620362Z",
-      "lastWriteTimeUtc": "2020-02-13T00:43:49.1081935Z",
-      "queryTimestamp": "2020-02-13T01:28:48.0720328Z",
+      "timestamp": "2020-02-13T00:40:21.7968864Z",
+      "lastWriteTimeUtc": "2019-11-09T12:51:38.8468074Z",
+      "queryTimestamp": "2020-02-13T00:40:22.1938871Z",
       "fileCount": 1,
-      "fileSize": 8463726
+      "fileSize": 2598165
     },
     {
       "folderName": "Hwyla-1.8.26-B41_1.12.2.jar",
@@ -348,49 +150,49 @@
       "fileSize": 453778
     },
     {
-      "folderName": "future-mc-0.1.13.jar",
-      "fingerprint": 2034647773,
-      "fileDateHash": 3363638328,
+      "folderName": "BirdsNests1.12.2-2.1.0.jar",
+      "fingerprint": 2836775263,
+      "fileDateHash": 1253777134,
       "sectionID": 8,
       "individualFingerprints": [
-        2034647773
-      ],
-      "status": 1,
-      "timestamp": "2020-02-09T21:22:36.3785655Z",
-      "lastWriteTimeUtc": "2020-02-09T06:00:06.9434008Z",
-      "queryTimestamp": "2020-02-13T00:40:22.194886Z",
-      "fileCount": 1,
-      "fileSize": 4822482
-    },
-    {
-      "folderName": "Soartex_Fanver.zip",
-      "fingerprint": 3758202294,
-      "fileDateHash": 1390284233,
-      "sectionID": 9,
-      "individualFingerprints": [
-        3758202294
-      ],
-      "status": 1,
-      "timestamp": "2020-02-13T01:28:45.9030347Z",
-      "lastWriteTimeUtc": "2020-02-13T00:43:02.1084399Z",
-      "queryTimestamp": "2020-02-13T01:28:48.0720328Z",
-      "fileCount": 1,
-      "fileSize": 35573169
-    },
-    {
-      "folderName": "AppleSkin-mc1.12-1.0.9.jar",
-      "fingerprint": 1708065614,
-      "fileDateHash": 1192434277,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1708065614
+        2836775263
       ],
       "status": 1,
       "timestamp": "2020-02-09T21:22:36.3775653Z",
-      "lastWriteTimeUtc": "2020-02-09T18:22:48.3957929Z",
-      "queryTimestamp": "2020-02-13T00:40:22.194886Z",
+      "lastWriteTimeUtc": "2020-02-09T18:34:44.6593505Z",
+      "queryTimestamp": "2020-02-13T00:40:22.1938871Z",
       "fileCount": 1,
-      "fileSize": 32317
+      "fileSize": 14975
+    },
+    {
+      "folderName": "pyrotech-1.12.2-1.4.20.jar",
+      "fingerprint": 466938443,
+      "fileDateHash": 3763277494,
+      "sectionID": 8,
+      "individualFingerprints": [
+        466938443
+      ],
+      "status": 1,
+      "timestamp": "2020-02-09T05:52:06.4260844Z",
+      "lastWriteTimeUtc": "2020-02-09T05:11:53.3354292Z",
+      "queryTimestamp": "2020-02-13T00:40:22.1938871Z",
+      "fileCount": 1,
+      "fileSize": 3642807
+    },
+    {
+      "folderName": "InventoryTweaks-1.63.jar",
+      "fingerprint": 4009982705,
+      "fileDateHash": 2265766655,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4009982705
+      ],
+      "status": 1,
+      "timestamp": "2020-02-09T21:22:36.4165658Z",
+      "lastWriteTimeUtc": "2020-02-09T17:54:52.4291475Z",
+      "queryTimestamp": "2020-02-13T00:40:22.1928855Z",
+      "fileCount": 1,
+      "fileSize": 263258
     },
     {
       "folderName": "Maille1.12.2-2.1.jar",
@@ -408,6 +210,21 @@
       "fileSize": 12627
     },
     {
+      "folderName": "Faithful 1.12.2-rv4.zip",
+      "fingerprint": 2839546773,
+      "fileDateHash": 3859211694,
+      "sectionID": 9,
+      "individualFingerprints": [
+        2839546773
+      ],
+      "status": 1,
+      "timestamp": "2020-02-13T01:28:45.8390333Z",
+      "lastWriteTimeUtc": "2020-02-13T00:43:39.2128075Z",
+      "queryTimestamp": "2020-02-13T01:28:48.0720328Z",
+      "fileCount": 1,
+      "fileSize": 6878379
+    },
+    {
       "folderName": "noRecipeBook_v1.2.2formc1.12.2.jar",
       "fingerprint": 1336617140,
       "fileDateHash": 2517989431,
@@ -421,10 +238,247 @@
       "queryTimestamp": "2020-02-13T00:40:22.1958845Z",
       "fileCount": 1,
       "fileSize": 4053
+    },
+    {
+      "folderName": "journeymap-1.12.2-5.5.9.jar",
+      "fingerprint": 3059291241,
+      "fileDateHash": 3045849388,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3059291241
+      ],
+      "status": 1,
+      "timestamp": "2020-02-13T18:36:45.2717217Z",
+      "lastWriteTimeUtc": "2020-02-13T17:49:01.6398351Z",
+      "queryTimestamp": "2020-02-13T18:36:46.0257245Z",
+      "fileCount": 1,
+      "fileSize": 1934330
+    },
+    {
+      "folderName": "Clarity 1.12.zip",
+      "fingerprint": 3801037052,
+      "fileDateHash": 3009044875,
+      "sectionID": 9,
+      "individualFingerprints": [
+        3801037052
+      ],
+      "status": 1,
+      "timestamp": "2020-02-13T01:28:45.7620362Z",
+      "lastWriteTimeUtc": "2020-02-13T00:43:49.1081935Z",
+      "queryTimestamp": "2020-02-13T01:28:48.0720328Z",
+      "fileCount": 1,
+      "fileSize": 8463726
+    },
+    {
+      "folderName": "Soartex_Fanver.zip",
+      "fingerprint": 3758202294,
+      "fileDateHash": 1390284233,
+      "sectionID": 9,
+      "individualFingerprints": [
+        3758202294
+      ],
+      "status": 1,
+      "timestamp": "2020-02-13T01:28:45.9030347Z",
+      "lastWriteTimeUtc": "2020-02-13T00:43:02.1084399Z",
+      "queryTimestamp": "2020-02-13T01:28:48.0720328Z",
+      "fileCount": 1,
+      "fileSize": 35573169
+    },
+    {
+      "folderName": "athenaeum-1.12.2-1.17.4.jar",
+      "fingerprint": 762739562,
+      "fileDateHash": 3157022259,
+      "sectionID": 8,
+      "individualFingerprints": [
+        762739562
+      ],
+      "status": 1,
+      "timestamp": "2020-02-09T05:52:06.1620856Z",
+      "lastWriteTimeUtc": "2020-02-09T05:11:51.8834541Z",
+      "queryTimestamp": "2020-02-13T00:40:22.194886Z",
+      "fileCount": 1,
+      "fileSize": 232826
+    },
+    {
+      "folderName": "Soartex_Fanver_Modded_Universal.zip",
+      "fingerprint": 1247408456,
+      "fileDateHash": 944931152,
+      "sectionID": 9,
+      "individualFingerprints": [
+        1247408456
+      ],
+      "status": 1,
+      "timestamp": "2020-02-13T01:28:46.2140322Z",
+      "lastWriteTimeUtc": "2020-02-13T00:44:28.9605811Z",
+      "queryTimestamp": "2020-02-13T01:28:48.0690368Z",
+      "fileCount": 1,
+      "fileSize": 145410508
+    },
+    {
+      "folderName": "LeatherWorks-1.12-1.78.0.42.jar",
+      "fingerprint": 3853061325,
+      "fileDateHash": 606150050,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3853061325
+      ],
+      "status": 1,
+      "timestamp": "2020-02-09T21:22:36.4185648Z",
+      "lastWriteTimeUtc": "2020-02-09T18:33:17.4369451Z",
+      "queryTimestamp": "2020-02-13T00:40:22.1928855Z",
+      "fileCount": 1,
+      "fileSize": 423005
+    },
+    {
+      "folderName": "Testing",
+      "fingerprint": 4056620556,
+      "fileDateHash": 2550971383,
+      "sectionID": 10,
+      "individualFingerprints": [
+        489458212,
+        489458212,
+        729741905,
+        754324003,
+        758054953,
+        758054953,
+        758054953,
+        758836144,
+        968146358,
+        1170300468,
+        1418564690,
+        1768837551,
+        1796700100,
+        2100034050,
+        2287526676,
+        3614386419,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462
+      ],
+      "status": 1,
+      "timestamp": "2020-02-13T18:36:45.4177312Z",
+      "lastWriteTimeUtc": "2020-02-13T18:30:54.4043022Z",
+      "queryTimestamp": "2020-02-13T18:36:46.026724Z",
+      "fileCount": 12,
+      "fileSize": 0
+    },
+    {
+      "folderName": "future-mc-0.1.13.jar",
+      "fingerprint": 2034647773,
+      "fileDateHash": 3363638328,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2034647773
+      ],
+      "status": 1,
+      "timestamp": "2020-02-09T21:22:36.3785655Z",
+      "lastWriteTimeUtc": "2020-02-09T06:00:06.9434008Z",
+      "queryTimestamp": "2020-02-13T00:40:22.194886Z",
+      "fileCount": 1,
+      "fileSize": 4822482
+    },
+    {
+      "folderName": "Baubles-1.12-1.5.2.jar",
+      "fingerprint": 4247051032,
+      "fileDateHash": 1129001609,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4247051032
+      ],
+      "status": 1,
+      "timestamp": "2020-02-09T05:52:06.1640832Z",
+      "lastWriteTimeUtc": "2020-02-09T05:12:26.3851326Z",
+      "queryTimestamp": "2020-02-13T00:40:22.1938871Z",
+      "fileCount": 1,
+      "fileSize": 108450
+    },
+    {
+      "folderName": "EmbersRekindled-1.13-hotfix2.jar",
+      "fingerprint": 1485864800,
+      "fileDateHash": 3420458802,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1485864800
+      ],
+      "status": 1,
+      "timestamp": "2020-02-13T18:36:45.182723Z",
+      "lastWriteTimeUtc": "2020-02-13T17:49:16.465607Z",
+      "queryTimestamp": "2020-02-13T18:36:46.0277244Z",
+      "fileCount": 1,
+      "fileSize": 9792671
+    },
+    {
+      "folderName": "CraftTweaker2-1.12-4.1.20.jar",
+      "fingerprint": 4244191030,
+      "fileDateHash": 1574712497,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4244191030
+      ],
+      "status": 1,
+      "timestamp": "2020-02-09T05:52:06.336085Z",
+      "lastWriteTimeUtc": "2020-02-09T05:16:17.9426602Z",
+      "queryTimestamp": "2020-02-13T00:40:22.1938871Z",
+      "fileCount": 1,
+      "fileSize": 1363036
+    },
+    {
+      "folderName": "Pyrotech",
+      "fingerprint": 1870611689,
+      "fileDateHash": 154695660,
+      "sectionID": 10,
+      "individualFingerprints": [
+        489458212,
+        489458212,
+        758054953,
+        758054953,
+        758054953,
+        801683587,
+        1219924837,
+        1339742944,
+        1649088189,
+        1831037954,
+        2838345415,
+        2926548495,
+        3078851486,
+        3130642536,
+        3238170998,
+        3942846325,
+        4050617952,
+        4183811606,
+        4204231364,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4278714252
+      ],
+      "status": 1,
+      "timestamp": "2020-02-13T18:36:45.2907233Z",
+      "lastWriteTimeUtc": "2020-02-13T18:26:59.233081Z",
+      "queryTimestamp": "2020-02-13T18:36:46.0277244Z",
+      "fileCount": 12,
+      "fileSize": 0
+    },
+    {
+      "folderName": "Botania r1.10-363.jar",
+      "fingerprint": 3763127432,
+      "fileDateHash": 4176784915,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3763127432
+      ],
+      "status": 1,
+      "timestamp": "2020-02-09T05:52:06.2100845Z",
+      "lastWriteTimeUtc": "2020-02-09T05:12:27.0871298Z",
+      "queryTimestamp": "2020-02-13T00:40:22.1928855Z",
+      "fileCount": 1,
+      "fileSize": 13814617
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2020-02-13T01:28:48.9680315Z",
+  "lastPreviousMatchUpdate": "2020-02-13T18:36:46.9007231Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -610,6 +664,143 @@
       "dateUpdated": "2020-02-09T05:11:52.2424317Z",
       "dateLastUpdateAttempted": "2020-02-09T05:11:52.2424317Z",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 252239,
+      "gameInstanceID": "dec040a2-5bb3-4b1e-9ede-4c94d793e22e",
+      "installedFile": {
+        "id": 2712229,
+        "displayName": "SpartanShields-1.12.2-1.5.4.jar",
+        "fileName": "SpartanShields-1.12.2-1.5.4.jar",
+        "fileDate": "2019-05-17T09:50:47.713Z",
+        "fileLength": 430944,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2712/229/SpartanShields-1.12.2-1.5.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 222880,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 224641,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 223628,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 70631,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 246760,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 225643,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 270789,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 53686,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 64578,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3574808777,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1062845928,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3065134977,
+            "type": 0
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2345702060,
+            "type": 0
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 3498229179,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 26359206,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2899431998,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 681427294,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "SpartanShields-1.12.2-1.5.4.jar"
+      },
+      "dateInstalled": "2020-02-13T20:16:17.138846Z",
+      "dateUpdated": "2020-02-13T20:16:17.146889Z",
+      "dateLastUpdateAttempted": "2020-02-13T20:16:17.146889Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1152,10 +1343,74 @@
     {
       "addonID": 300777,
       "gameInstanceID": "dec040a2-5bb3-4b1e-9ede-4c94d793e22e",
-      "installedFile": null,
-      "dateInstalled": "2020-02-13T14:52:07.806947Z",
-      "dateUpdated": "2020-02-13T14:52:07.8459371Z",
-      "dateLastUpdateAttempted": "2020-02-13T14:52:07.8459371Z",
+      "installedFile": {
+        "id": 2697221,
+        "displayName": "EmbersRekindled-1.13-hotfix2.jar",
+        "fileName": "EmbersRekindled-1.13-hotfix2.jar",
+        "fileDate": "2019-04-09T09:38:46.677Z",
+        "fileLength": 9792671,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2697/221/EmbersRekindled-1.13-hotfix2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 227083,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 300742,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 41263889,
+            "type": 0
+          },
+          {
+            "foldername": "teamroots",
+            "fingerprint": 2921949069,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3375383684,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3666904098,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1485864800,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "EmbersRekindled-1.13-hotfix2.jar"
+      },
+      "dateInstalled": "2020-02-13T17:49:16.4776067Z",
+      "dateUpdated": "2020-02-13T17:49:16.4906044Z",
+      "dateLastUpdateAttempted": "2020-02-13T17:49:16.4906044Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
