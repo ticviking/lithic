@@ -29,7 +29,11 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
+<<<<<<< HEAD
   "lastPlayed": "2020-02-14T19:00:52.8797933Z",
+=======
+  "lastPlayed": "2020-02-14T18:50:23.9857684Z",
+>>>>>>> Install mods for testing
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,

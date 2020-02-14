@@ -1,0 +1,26 @@
+#Inventory Tweaks Configuration
+#(Regarding shortcuts, all key names can be found at: http://legacy.lwjgl.org/javadoc/org/lwjgl/input/Keyboard.html)
+<<<<<<< HEAD
+#Fri Feb 14 17:00:20 MST 2020
+=======
+#Fri Feb 14 12:12:08 MST 2020
+>>>>>>> 25fa6a0317cb7120c2bff5d8169584395abb0a74
+enableMiddleClick=true
+showChestButtons=true
+enableSortingOnPickup=false
+enableAutoRefill=false
+autoRefillBeforeBreak=false
+autoRefillDamageThreshhold=5
+enableSounds=true
+enableShortcuts=true
+enableAutoEquipArmor=false
+enableServerItemSwap=true
+enableConfigLoadedMesssage=false
+invertToolDamageSorting=true
+shortcutKeyAllItems=LCONTROL+LSHIFT, RCONTROL+RSHIFT
+shortcutKeyEverything=SPACE
+shortcutKeyOneItem=LCONTROL, RCONTROL
+shortcutKeyToUpperSection=UP
+shortcutKeyToLowerSection=DOWN
+shortcutKeyDrop=LALT, RALT
+version=1.63+release.109.220f184
