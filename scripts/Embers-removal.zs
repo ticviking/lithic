@@ -9,15 +9,13 @@ val unused = [<embers:brick_caminite>, <embers:blend_caminite>, <embers:blend_ca
               <embers:ore_lead>, 
               <embers:pickaxe_lead>, <embers:axe_lead>, <embers:shovel_lead>, <embers:hoe_lead>, <embers:sword_lead>,
               <embers:ore_silver>, 
-                        <embers:pickaxe_silver>, <embers:axe_silver>, <embers:shovel_silver>, <embers:hoe_silver>, <embers:sword_silver>,
+              <embers:pickaxe_silver>, <embers:axe_silver>, <embers:shovel_silver>, <embers:hoe_silver>, <embers:sword_silver>,
               <embers:ore_aluminum>,
-                        <embers:pickaxe_aluminim>, <embers:axe_aluminim>, <embers:shovel_aluminim>, <embers:hoe_aluminim>, <embers:sword_aluminim>,
-              
-              <embers:ore_nickel>, 
-                        <embers:pickaxe_nickle>, <embers:axe_nickle>, <embers:shovel_nickle>, <embers:hoe_nickle>, <embers:sword_nickle>,
-
+              <embers:pickaxe_aluminum>, <embers:axe_aluminum>, <embers:shovel_aluminum>, <embers:hoe_aluminum>, <embers:sword_aluminum>,
+              <embers:ore_nickel>,
+              <embers:pickaxe_nickel>, <embers:axe_nickel>, <embers:shovel_nickel>, <embers:hoe_nickel>, <embers:sword_nickel>,
               <embers:ore_tin>,
-                        <embers:pickaxe_tin>, <embers:axe_tin>, <embers:shovel_tin>, <embers:hoe_tin>, <embers:sword_tin>
+              <embers:pickaxe_tin>, <embers:axe_tin>, <embers:shovel_tin>, <embers:hoe_tin>, <embers:sword_tin>
 
 ] as IItemStack[];
 for item in unused {   
