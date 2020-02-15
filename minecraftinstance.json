@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-02-14T04:19:31.9674269Z",
+  "lastPlayed": "2020-02-14T21:13:57.93655Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -3757,6 +3757,73 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 293973,
+      "gameInstanceID": "21a85ecd-1762-42fb-94c5-fb230d6323cb",
+      "installedFile": {
+        "id": 2563651,
+        "displayName": "EquipmentTooltips-1.12.2-1.0.3-4.jar",
+        "fileName": "EquipmentTooltips-1.12.2-1.0.3-4.jar",
+        "fileDate": "2018-05-20T16:43:39.243Z",
+        "fileLength": 23533,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2563/651/EquipmentTooltips-1.12.2-1.0.3-4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 683081655,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 3790726463,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2942497682,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3108349190,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 888762558,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "EquipmentTooltips-1.12.2-1.0.3-4.jar"
+      },
+      "dateInstalled": "2020-02-14T20:36:25.5320116Z",
+      "dateUpdated": "2020-02-14T20:36:25.6240109Z",
+      "dateLastUpdateAttempted": "2020-02-14T20:36:25.6240109Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 238222,
