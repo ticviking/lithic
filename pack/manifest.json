@@ -1,0 +1,18 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2847",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Lithic",
+  "version": "1.0.0",
+  "author": "TicViking",
+  "files": [],
+  "overrides": "overrides"
+}
